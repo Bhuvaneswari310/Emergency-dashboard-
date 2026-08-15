@@ -1,2 +1,3 @@
-# Emergency-dashboard-
-Emergency 
+## Emergency Response Dashboard
+
+![Emergency Response Dashboard](./emergency-response-dashboard.jpeg)
